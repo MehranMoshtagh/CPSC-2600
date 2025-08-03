@@ -1,5 +1,10 @@
 # Event Manager — Full Stack Term Project
 
+https://github.com/MehranMoshtagh/CPSC-2600.git
+
+https://cpsc-2600-project.onrender.com
+
+
 A simple full-stack event management app with event creation, RSVP tracking, filtering, and validation.
 
 **Built with:**  
