@@ -1,0 +1,16 @@
+{
+  "name": "event-client",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "parcel src/index.html --dist-dir ../server/public",
+    "build": "parcel build src/index.html --dist-dir ../server/public"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}

@@ -1,0 +1,103 @@
+body {
+  color: #1f2d3a;
+  background: #f0f2f7;
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+}
+
+.header-bar {
+  color: #fff;
+  text-align: center;
+  background: #4285f4;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+  padding: 14px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #e3e7ec;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  padding: 18px 22px;
+  box-shadow: 0 2px 12px #0000000a;
+}
+
+.btn {
+  color: #fff;
+  cursor: pointer;
+  background: #4285f4;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 18px;
+  font-size: .95rem;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.btn-secondary {
+  color: #4285f4;
+  background: #fff;
+  border: 1px solid #4285f4;
+}
+
+.btn-sm {
+  padding: 6px 12px;
+  font-size: .8rem;
+}
+
+.input-field {
+  box-sizing: border-box;
+  border: 1px solid #cbd2d9;
+  border-radius: 4px;
+  width: 100%;
+  padding: 8px 10px;
+  font-size: 1rem;
+}
+
+label {
+  margin-bottom: 4px;
+  font-size: .9rem;
+  display: block;
+}
+
+h1, h2, h3, h4 {
+  margin-top: 0;
+}
+
+.rsvp-attending {
+  background: #d4f8d4;
+}
+
+.rsvp-not-attending {
+  background: #f8d4d4;
+}
+
+.rsvp-maybe {
+  background: #fbf3d4;
+}
+
+.layout-two-column {
+  flex-wrap: wrap;
+  gap: 2rem;
+  display: flex;
+}
+
+.small-muted {
+  color: #555;
+  font-size: .8rem;
+}
+
+.event-title {
+  color: #36c;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.event-title:hover {
+  text-decoration: underline;
+}
+/*# sourceMappingURL=client.126cf930.css.map */
